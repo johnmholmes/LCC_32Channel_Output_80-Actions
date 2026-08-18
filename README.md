@@ -20,12 +20,12 @@ See datasheet in this web page https://www.microchip.com/en-us/product/mcp23017
 It offers the following Pin setting so you can choose a couple of actions per pin,  
 Depending on your needs for animation.
 
-None
-Low
-High
-Flash
-Double Strobe
-Random
+ - None
+ - Low
+ - High
+ - Flash
+ - Double Strobe
+ - Random
 
 Notes:
   * if RESET_TO_FACTORY_DEFAULTS is 1, then the EEPROM is intialized, 
@@ -35,15 +35,15 @@ Notes:
 
 The SN65HVD230 Can Transceiver is attached via pins
 
-RX to pin D15
-TX to pin D2
-VCC Pin 3.3volts
-GND Pin GND
+ - RX to pin D15
+ - TX to pin D2
+ - VCC Pin 3.3volts
+ - GND Pin GND
 
 The i2c is connected via pins
 
-SDA pin D21
-SCL pin D22
-VCC Pin 3.3volts
-GND Pin GND
+ - SDA pin D21
+ - SCL pin D22
+ - VCC Pin 3.3volts
+ - GND Pin GND
 
